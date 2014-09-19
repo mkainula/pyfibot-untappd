@@ -13,7 +13,7 @@ Untappd module for Pyfibot IRC bot (https://github.com/lepinkainen/pyfibot) inte
 ## Running ##
 
 Add module_untappd.py to your pyfibot configuration and type
-    .untappd <delay>
+.untappd [delay]
 on the IRC channel you want to run the bot on. For the default venues (craft beer bars in Helsinki and Espoo), you should use at least 10 minutes (600.0) as the delay.
 
 ## TODO ##
